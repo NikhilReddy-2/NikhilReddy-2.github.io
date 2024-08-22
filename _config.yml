@@ -117,15 +117,15 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Systems Enthusiast & Non-Practicing Critical Thinker"
   location         : "In the moment"
-  email            :
+  email            : nikhilreddy156@gmail.com
   links:
-    - label: "Email"
+    - label: "nikhilreddy156@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nikhilreddy156@gmail.com"
-    - label: "Website"
+    - label: "nikhil.wiki"
       icon: "fas fa-fw fa-link"
       url: "https://nikhil.wiki"
-    - label: "GitHub"
+    - label: "NikhilReddy-2"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NikhilReddy-2"
 
